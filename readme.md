@@ -41,7 +41,7 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a 
     <br />
     <br />
     <a
@@ -50,33 +50,17 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a 
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a 
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
