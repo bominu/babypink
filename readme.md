@@ -19,9 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
- <br /> ˖ ᣟ baby pink ᣟৎ˳
- ======
  <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -29,6 +26,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  
+˖ ᣟ baby pink ᣟৎ˳
+ ======
  <br /> _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 
    <br /> <br /> <br />
    
@@ -49,7 +48,7 @@
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-5. Change git remote url to avoid ahes to base project
+5. Change git remote url to avoid aheso base project
    ```sh
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
