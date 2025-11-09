@@ -26,7 +26,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  
-˖ ᣟ baby pink ᣟৎ˳
+  ˖ ᣟ baby pink ᣟৎ˳
  ======
  <br /> _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 
    <br /> <br /> <br />
