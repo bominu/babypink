@@ -36,7 +36,7 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center"> ˖ ᣟ baby pink ᣟৎ˳</h3>
 
   <p align="center">
     _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
