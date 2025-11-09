@@ -83,10 +83,7 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
 
 
 
-<br />
-<br />
-<br />
-<br />
+<br /> <br /> <br /> <br />
 <!-- CONTACT -->
 Contact
 ------
