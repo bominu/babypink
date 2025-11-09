@@ -28,20 +28,11 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center"> ˖ ᣟ baby pink ᣟৎ˳</h3>
-======
-  <p align="center">
-    _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
-    ------
-    <br />
-    <a 
-    <br />
-    <br />
-    <a
-    &middot;
-    <a hre
+ ˖ ᣟ baby pink ᣟৎ˳
+ ======
+   _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
+   ------<br /> <a <br /> <br /> <a
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 
 <br /> <br /> <br />Install
