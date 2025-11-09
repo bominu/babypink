@@ -31,7 +31,8 @@
  ˖ ᣟ baby pink ᣟৎ˳
  ======
    _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
-   ------<br /> <a <br /> <br /> <a
+   ------
+   <br /> <br /> <br />
 
 
 
