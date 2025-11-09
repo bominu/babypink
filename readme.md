@@ -88,7 +88,8 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
 <br />
 <br />
 <!-- CONTACT -->
-## Contact
+Contact
+------
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
