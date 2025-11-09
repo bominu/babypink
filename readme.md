@@ -54,7 +54,7 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
 <br />
 <br />
 <br />
-### Installation
+## Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -85,11 +85,10 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
 
 
 
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 <!-- CONTACT -->
 ## Contact
 
