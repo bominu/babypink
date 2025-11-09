@@ -39,7 +39,7 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
 <h3 align="center"> ˖ ᣟ baby pink ᣟৎ˳</h3>
 
   <p align="center">
-    _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
+    _ _   `♡` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
     <br />
     <a 
     <br />
