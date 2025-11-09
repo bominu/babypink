@@ -39,7 +39,7 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
+    _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
     <br />
     <a 
     <br />
