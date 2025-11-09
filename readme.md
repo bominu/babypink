@@ -1,11 +1,3 @@
-<h3 align="center">
- <img src="" width="100" alt="Logo"/><br/>
- <img 
-  
- ˖ ᣟ baby pink ᣟৎ˳
-_ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
-
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id=" ˖ ᣟ baby pink ᣟৎ˳"></a>
 <!--
@@ -39,7 +31,7 @@ _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒
 <h3 align="center"> ˖ ᣟ baby pink ᣟৎ˳</h3>
 
   <p align="center">
-    _ _   `♡` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
+    _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 𓈒 
     <br />
     <a 
     <br />
