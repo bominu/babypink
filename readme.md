@@ -20,17 +20,18 @@
 -->
 
 
- ˖ ᣟ baby pink ᣟৎ˳
+ <br /> ˖ ᣟ baby pink ᣟৎ˳
  ======
- <br /> _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 
-   <br /> <br /> <br />
-
-<!-- PROJECT LOGO -->
+ <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+ 
+ <br /> _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 
+   <br /> <br /> <br />
+   
 
 <br /> <br /> <br /> Install
 ------
