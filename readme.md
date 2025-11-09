@@ -20,6 +20,10 @@
 -->
 
 
+ ˖ ᣟ baby pink ᣟৎ˳
+ ======
+ <br /> _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 
+   <br /> <br /> <br />
 
 <!-- PROJECT LOGO -->
 <br />
@@ -28,15 +32,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
- ˖ ᣟ baby pink ᣟৎ˳
- ======
- <br /> _ _   ` ♡ ` ┊  ݂ pink theme for revenge 𓈒 𓈒 
-   <br /> <br /> <br />
-
-
-
-<br /> <br /> <br />
-Install
+<br /> <br /> <br /> Install
 ------
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -52,7 +48,7 @@ Install
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-5. Change git remote url to avoid accidental pushes to base project
+5. Change git remote url to avoid ahes to base project
    ```sh
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
